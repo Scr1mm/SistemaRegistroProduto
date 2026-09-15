@@ -34,6 +34,7 @@ Além de atender às exigências básicas da atividade acadêmica, o sistema foi
 
 ---
 
+```text
 === MENU INICIAL ===
 1 - Cadastrar Pedido
 2 - Exibir Relatório
@@ -71,7 +72,7 @@ Cliente da maior compra: Maria (R$ 520,00)
 Média das compras acima de R$ 30,00: R$ 277,75
 
 Meta atingida!
-
+```
 
 ## 🛠️ Tecnologias Utilizadas
 
